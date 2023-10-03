@@ -6,7 +6,7 @@
 
 <p align="left">
 Configure Access Privilege For Teams in our Business Network: <br/>
-<img src="https://i.imgur.com/W8jYXVm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/W8jYXVm.png" height="80%" width="80%" alt="Exam Lab Report"/>
 <br />
 <br />
 <h2>Exam Lab Report:</h2>
